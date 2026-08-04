@@ -7,3 +7,4 @@ Author - Bhanu pratap singh
 - CMD = git config --list
 - CMD = cd [filename],{➡️ to change folder}
 - CMD = ls , {➡️ to find the files}
+- CMD = ls -Force , {➡️to show all the files(hidden also)}
