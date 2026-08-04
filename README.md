@@ -6,3 +6,4 @@ Author - Bhanu pratap singh
 - CMD = git config --global user.email "email0093@.com"
 - CMD = git config --list
 - CMD = cd [filename],{➡️ to change folder}
+- CMD = ls , {➡️ to find the files}
