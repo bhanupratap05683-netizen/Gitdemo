@@ -9,3 +9,4 @@ Author - Bhanu pratap singh
 - CMD = ls , {➡️ to find the files}
 - CMD = ls -Force , {➡️to show all the files(hidden also)}
 - CMD = git status ,{➡️to know the current status of local to remote changes}
+- CMD = cd .. , {➡️to getout frim the working directory}
