@@ -6,7 +6,10 @@ Author - Bhanu pratap singh
 - CMD = git config --global user.email "email0093@.com"
 - CMD = git config --list
 - CMD = cd [filename] , {➡️ to change folder}
+- CMD = cd .. , {➡️to getout from the working directory}
 - CMD = ls , {➡️ to find the files}
 - CMD = ls -Force , {➡️to show all the files(hidden also)}
 - CMD = git status ,{➡️to know the current status of local to remote changes}
-- CMD = cd .. , {➡️to getout frim the working directory}
+- CMD = git add [Filename] ,{➡️to stagged or making the file ready to commit}
+- CMD = git add . .{➡️to stagged all the changes at once}
+- CMD = git commit -m "write a msg" ,{➡️to commit the change}
