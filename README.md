@@ -15,3 +15,4 @@ Author - Bhanu pratap singh
 - CMD = git commit -m "write a msg" ,{➡️to commit the change}
 - CMD = git push origin main , {➡️ To push the code}
 - CMD = mkdir [Filename] , {➡️ To make a new directory}
+- CMD = git init , {➡️ To make it a git repo}
