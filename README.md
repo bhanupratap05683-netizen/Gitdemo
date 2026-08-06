@@ -17,3 +17,4 @@ Author - Bhanu pratap singh
 - CMD = mkdir [Filename] , {➡️ To make a new directory}
 - CMD = git init , {➡️ To make it a git repo}
 - CMD = git remote add origin [ url of the github repo] , {➡️ To add a remote repo in local}
+- CMD = git remote -v , {➡️ To check git repo}
