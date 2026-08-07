@@ -19,3 +19,4 @@ Author - Bhanu pratap singh
 - CMD = git remote add origin [ url of the github repo] , {➡️ To add a remote repo in local}
 - CMD = git remote -v , {➡️ To check git repo}
 - CMD = git branch , {➡️ To check the branch}
+- CMD = git branch -M main , {➡️ To rename the branch }
