@@ -20,3 +20,4 @@ Author - Bhanu pratap singh
 - CMD = git remote -v , {➡️ To check git repo}
 - CMD = git branch , {➡️ To check the branch}
 - CMD = git branch -M main , {➡️ To rename the branch }
+- CMD = git push origin main , {➡️ To push the commit }
