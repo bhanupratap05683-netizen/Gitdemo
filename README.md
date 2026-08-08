@@ -24,4 +24,4 @@ Author - Bhanu pratap singh
 - CMD = git push -u origin main , {➡️ To set upstream }
 - CMD = git checkout [ branch name ] , {➡️ To navigate }
 - CMD = git checkout -b [ New branch name ] , {➡️ To create a new branch }
-- 
+- CMD = git branch -d [ branch name ] , {➡️ To delete a branch }
