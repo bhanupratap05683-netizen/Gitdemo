@@ -22,3 +22,5 @@ Author - Bhanu pratap singh
 - CMD = git branch -M main , {➡️ To rename the branch }
 - CMD = git push origin main , {➡️ To push the commit }
 - CMD = git push -u origin main , {➡️ To set upstream }
+- CMD = git checkout [ branch name ] , {➡️ To navigate }
+- 
