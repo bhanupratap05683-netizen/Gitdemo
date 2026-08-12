@@ -1,6 +1,6 @@
 # Gitdemo
-VS code practice
-Author - Bhanu pratap singh
+- VS code practice
+- Author - Bhanu pratap singh
 ## Git Codes
 - CMD = git config --global user.name "NAME"
 - CMD = git config --global user.email "email0093@.com"
