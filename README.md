@@ -26,3 +26,4 @@
 - CMD = git checkout -b [ New branch name ] , {➡️ To create a new branch }
 - CMD = git branch -d [ branch name ] , {➡️ To delete a branch }
 - CMD = git diff [ branch name ] , {➡️ To compare the differences between two branches}
+- CMD = git merge [ branch name] , {➡️ to merge two brancehs }
