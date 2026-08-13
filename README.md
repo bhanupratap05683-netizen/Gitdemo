@@ -10,9 +10,9 @@
 - CMD = ls , {➡️ to find the files}
 - CMD = ls -Force , {➡️to show all the files(hidden also)}
 - CMD = git status ,{➡️to know the current status of local to remote changes}
-- CMD = git add [Filename] ,{➡️to stagged or making the file ready to commit}
-- CMD = git add . .{➡️to stagged all the changes at once}
-- CMD = git commit -m "write a msg" ,{➡️to commit the change}
+- CMD = git add [Filename] ,{➡️To stagged or making the file ready to commit}
+- CMD = git add . , {➡️ To stagged all the changes at once}
+- CMD = git commit -m "write a msg" , {➡️ To commit the change}
 - CMD = git push origin main , {➡️ To push the code}
 - CMD = mkdir [Filename] , {➡️ To make a new directory}
 - CMD = git init , {➡️ To make it a git repo}
@@ -26,4 +26,4 @@
 - CMD = git checkout -b [ New branch name ] , {➡️ To create a new branch }
 - CMD = git branch -d [ branch name ] , {➡️ To delete a branch }
 - CMD = git diff [ branch name ] , {➡️ To compare the differences between two branches}
-- CMD = git merge [ branch name] , {➡️ to merge two brancehs }
+- CMD = git merge [ branch name] , {➡️ To merge two brancehs }
