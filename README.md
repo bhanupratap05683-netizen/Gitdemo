@@ -5,7 +5,7 @@
 - CMD = git config --global user.name "NAME"
 - CMD = git config --global user.email "email0093@.com"
 - CMD = git config --list
-- CMD = cd [filename] , {➡️ to change folder}
+- CMD = cd [filename] , {➡️ To change folder}
 - CMD = cd .. , {➡️to getout from the working directory}
 - CMD = ls , {➡️ to find the files}
 - CMD = ls -Force , {➡️to show all the files(hidden also)}
