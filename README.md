@@ -27,3 +27,4 @@
 - CMD = git branch -d [ branch name ] , {➡️ To delete a branch }
 - CMD = git diff [ branch name ] , {➡️ To compare the differences between two branches}
 - CMD = git merge [ branch name] , {➡️ To merge two brancehs }
+- CMD = git pull origin main , {➡️ To pull the changes from remote to local }
