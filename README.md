@@ -8,8 +8,8 @@
 - CMD = cd [filename] , {➡️ To change folder}
 - CMD = cd .. , {➡️ To getout from the working directory}
 - CMD = ls , {➡️ To find the files}
-- CMD = ls -Force , {➡️to show all the files(hidden also)}
-- CMD = git status ,{➡️to know the current status of local to remote changes}
+- CMD = ls -Force , {➡️To show all the files(hidden also)}
+- CMD = git status ,{➡️To know the current status of local to remote changes}
 - CMD = git add [Filename] ,{➡️To stagged or making the file ready to commit}
 - CMD = git add . , {➡️ To stagged all the changes at once}
 - CMD = git commit -m "write a msg" , {➡️ To commit the change}
