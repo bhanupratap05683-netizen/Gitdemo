@@ -4,7 +4,7 @@
 ## Git Codes
 - CMD = git config --global user.name "NAME"
 - CMD = git config --global user.email "email0093@.com"
-- CMD = git config --list
+- CMD = git config --list , {➡️ To add the list}
 - CMD = cd [filename] , {➡️ To change folder}
 - CMD = cd .. , {➡️ To getout from the working directory}
 - CMD = ls , {➡️ To find the files}
