@@ -31,3 +31,4 @@
 - CMD = git reset [ branchname ] , {➡️ To undoing the changes}
 - CMD = git reset , {➡️ To do the reset work }
 - CMD = git reset HEAD~1 , {➡️ To reverse the latest commit}
+- CMD = git reset [commit hash] , {➡️ To reverse the commit according to there hash}
