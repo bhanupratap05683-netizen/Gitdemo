@@ -30,3 +30,4 @@
 - CMD = git pull origin main , {➡️ To pull the changes from remote to local }
 - CMD = git reset [ branchname ] , {➡️ To undoing the changes}
 - CMD = git reset , {➡️ To do the reset work }
+- CMD = git reset HEAD~1 , {➡️ To reverse the latest commit}
